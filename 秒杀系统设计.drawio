@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T11:36:12.792Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" version="21.6.8" etag="JvZB9GjMqygLEIjznl4q" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T11:41:36.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="-4hrRfoD5LprvwmUS4Hb" version="21.6.8" type="github">
   <diagram name="第 1 页" id="iJYLgnD0Vp_bRv892wBv">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BWaOofcB4zOCKCN69qSM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="520" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-2" value="秒杀按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-4" value="用户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="760" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-6" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-8" value="刷新页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-9" value="取消订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-10" value="支付订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
