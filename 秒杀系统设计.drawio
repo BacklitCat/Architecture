@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T11:54:14.921Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="ygsK1qExe1_JzQLeqMP4" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T11:58:31.162Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="CLN_OimtN-0Hd-UOL9v8" version="21.6.8" type="github">
   <diagram name="第 1 页" id="iJYLgnD0Vp_bRv892wBv">
     <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BWaOofcB4zOCKCN69qSM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="760" height="120" as="geometry" />
+          <mxGeometry x="40" y="40" width="640" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-2" value="秒杀按钮" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-4" value="用户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="280" width="760" height="250" as="geometry" />
+          <mxGeometry x="40" y="280" width="640" height="250" as="geometry" />
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-6" value="服务端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="60" height="30" as="geometry" />
@@ -23,10 +23,10 @@
           <mxGeometry x="80" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-9" value="取消订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-10" value="支付订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="80" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-12" value="静态资源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="80" height="40" as="geometry" />
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-18" value="按一次置灰5s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="440" y="50" width="80" height="30" as="geometry" />
+          <mxGeometry x="320" y="50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-19" value="加密URL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="80" height="40" as="geometry" />
@@ -75,6 +75,12 @@
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-22" value="倒计时5s" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-24" value="秒杀服务" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-25" value="订单服务" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
