@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-22T12:07:57.295Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="xMoitmsVMPA7VvGNwhfe" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-22T12:09:04.227Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="0YpGoQLHI5UGJfyKr7fJ" version="21.6.8" type="github">
   <diagram name="第 1 页" id="iJYLgnD0Vp_bRv892wBv">
-    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,6 +91,17 @@
         <mxCell id="BWaOofcB4zOCKCN69qSM-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BWaOofcB4zOCKCN69qSM-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.183;entryY=1.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BWaOofcB4zOCKCN69qSM-30" target="BWaOofcB4zOCKCN69qSM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;width=6.285714285714286;endSize=4.617142857142857;" edge="1" parent="1" source="BWaOofcB4zOCKCN69qSM-30" target="BWaOofcB4zOCKCN69qSM-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BWaOofcB4zOCKCN69qSM-53" value="MQ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BWaOofcB4zOCKCN69qSM-52">
+          <mxGeometry x="-0.175" y="-2" relative="1" as="geometry">
+            <mxPoint x="4" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-30" value="秒杀服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
