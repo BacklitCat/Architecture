@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T02:21:49.301Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="L8vLYpwxUvlC0upoA00X" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T02:51:40.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="2SdlhWcWmtjiFMWEEXNb" version="21.6.8" type="github">
   <diagram name="第 1 页" id="iJYLgnD0Vp_bRv892wBv">
-    <mxGraphModel dx="989" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="610" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DuUz3dZLWf0-vGTdlnzA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="660" height="490" as="geometry" />
+        </mxCell>
         <mxCell id="BWaOofcB4zOCKCN69qSM-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="280" width="640" height="230" as="geometry" />
         </mxCell>
@@ -200,11 +203,17 @@
             <mxPoint x="550" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="haFJZYV6baIqh78KxMwG-1" value="防脚本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="haFJZYV6baIqh78KxMwG-1" value="防脚本" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="210" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="haFJZYV6baIqh78KxMwG-3" value="防超卖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="haFJZYV6baIqh78KxMwG-3" value="防超卖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="245" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuUz3dZLWf0-vGTdlnzA-2" value="消息发送表、消息处理表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383" y="360" width="147" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuUz3dZLWf0-vGTdlnzA-3" value="防丢失、幂等" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="380" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
